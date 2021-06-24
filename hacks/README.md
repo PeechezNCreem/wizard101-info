@@ -28,6 +28,7 @@ I uploaded it in an encrypted zip archive to prevent any possible issues downloa
 **Zip Archive Password**: `PeechezNCreem`
 
 Future Plans:
+- **Transition to WizWalker now that it has all the features I require.**
 - Fix RegisterHotKey error (conflicts with other programs; no good solution)
 - Remove the need for offset teleports (hopefully)
 - Improve movement speed hack to update on zone change (requires too much work to the current code)
